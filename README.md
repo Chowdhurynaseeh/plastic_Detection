@@ -2,7 +2,6 @@
 
 
 # Plastic Detection in River
-![image](https://github.com/user-attachments/assets/286513d1-713c-454e-b5e9-9d72f432be91)
 Plastic pollution in marine environments is a global threat, endangering marine species, human health, food security, and coastal tourism. Annually, more than 350 million tons of plastic are produced, with over 15 million tons ending up in the world's oceans. As plastic degrades into micro-plastics over time, both macro and microplastics have severe environmental impacts. Rivers serve as the primary source of plastic in oceans, with more than 80% of river plastic originating from just 1000 rivers globally. Organizations such as The Ocean Cleanup are investing resources to address ocean plastic pollution by focusing on cleaning rivers.
 
 
